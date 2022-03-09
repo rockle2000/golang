@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0131f8b6-8380-4a5b-92de-cac124ac9e57" name="Changes" comment="add search for feature list following, follower">
+    <list default="true" id="0131f8b6-8380-4a5b-92de-cac124ac9e57" name="Changes" comment="second commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/commentlike/commentlikestorage/delete.go" beforeDir="false" afterPath="$PROJECT_DIR$/modules/commentlike/commentlikestorage/delete.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/subscriber/delete_comment_like_after_delete_comment.go" beforeDir="false" afterPath="$PROJECT_DIR$/subscriber/delete_comment_like_after_delete_comment.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,6 +113,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -258,68 +261,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/modules/upload/uploadtransport/ginupload/upload_file.go</url>
-          <line>15</line>
-          <option name="timeStamp" value="66" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/modules/upload/uploadtransport/ginupload/upload_file.go</url>
           <line>18</line>
           <option name="timeStamp" value="67" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/modules/upload/uploadtransport/ginupload/upload_file.go</url>
-          <line>17</line>
-          <option name="timeStamp" value="68" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/modules/upload/uploadtransport/ginupload/upload_file.go</url>
-          <line>21</line>
-          <option name="timeStamp" value="69" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/modules/upload/uploadtransport/ginupload/upload_file.go</url>
-          <line>23</line>
-          <option name="timeStamp" value="70" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/modules/upload/uploadtransport/ginupload/upload_file.go</url>
-          <line>25</line>
-          <option name="timeStamp" value="71" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/modules/upload/uploadtransport/ginupload/upload_file.go</url>
-          <line>29</line>
-          <option name="timeStamp" value="72" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/modules/upload/uploadtransport/ginupload/upload_file.go</url>
-          <line>31</line>
-          <option name="timeStamp" value="73" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/modules/upload/uploadtransport/ginupload/upload_file.go</url>
-          <line>32</line>
-          <option name="timeStamp" value="74" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/modules/upload/uploadtransport/ginupload/upload_file.go</url>
-          <line>37</line>
-          <option name="timeStamp" value="76" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/modules/upload/uploadtransport/ginupload/upload_file.go</url>
-          <line>38</line>
-          <option name="timeStamp" value="77" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/modules/upload/uploadtransport/ginupload/upload_file.go</url>
-          <line>40</line>
-          <option name="timeStamp" value="78" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/modules/upload/uploadtransport/ginupload/upload_file.go</url>
-          <line>43</line>
-          <option name="timeStamp" value="79" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/modules/post/posttransport/ginpost/list_following_post.go</url>
