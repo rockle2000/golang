@@ -69,7 +69,7 @@ func runService(db *gorm.DB, upProvider uploadprovider.UploadProvider, secretKey
 	}
 	r := gin.Default()
 	r.Use(middleware.Recover(appCtx))
-	r.GET("/ping", func(c *gin.Context) {
+	r.GET("", func(c *gin.Context) {
 		c.JSON(http.StatusOK, gin.H{
 			"message": "true",
 		})

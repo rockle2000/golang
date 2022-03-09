@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0131f8b6-8380-4a5b-92de-cac124ac9e57" name="Changes" comment="third commit">
-      <change beforePath="$PROJECT_DIR$/subscriber/sub.go" beforeDir="false" afterPath="$PROJECT_DIR$/subscriber/sub.go" afterDir="false" />
+    <list default="true" id="0131f8b6-8380-4a5b-92de-cac124ac9e57" name="Changes" comment="forth commit">
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +116,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="second commit" />
     <MESSAGE value="third commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="third commit" />
+    <MESSAGE value="forth commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="forth commit" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
