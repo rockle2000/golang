@@ -31,13 +31,6 @@ func (engine *consumerEngine) Start() error {
 		DeletePostLikeAfterDeletePost(engine.appCtx),
 		DeleteCommentLikeAfterDeletePost(engine.appCtx),
 	)
-
-	engine.startSubTopic(
-		common.TopicDeleteComment,
-		true,
-		DeleteCommentLikeAfterDeleteComment(engine.appCtx),
-	)
-
 	return nil
 }
 
