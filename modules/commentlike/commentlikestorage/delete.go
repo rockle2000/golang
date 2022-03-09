@@ -20,7 +20,7 @@ func (s *sqlStore) Delete(ctx context.Context, commentId, userId int) error {
 func (s *sqlStore) DeleteAfterDeleteComment(ctx context.Context, commentId int) error {
 	db := s.db
 
-	if err := db.Table(comment_likesmodel.CommentLikes{}.TableName()).
+	if err := db.Table(commentlikemodel.CommentLikes{}.TableName()).
 		Where("comment_id = ?", commentId).
 		Delete(nil).Error; err != nil {
 		return common.ErrDB(err)

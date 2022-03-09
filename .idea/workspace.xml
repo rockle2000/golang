@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0131f8b6-8380-4a5b-92de-cac124ac9e57" name="Changes" comment="add search for feature list following, follower">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/commentlike/commentlikestorage/delete.go" beforeDir="false" afterPath="$PROJECT_DIR$/modules/commentlike/commentlikestorage/delete.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subscriber/delete_comment_like_after_delete_comment.go" beforeDir="false" afterPath="$PROJECT_DIR$/subscriber/delete_comment_like_after_delete_comment.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +24,9 @@
   <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../../Program Files/Go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="4" />
   </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
